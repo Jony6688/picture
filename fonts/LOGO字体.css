@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "LOGO字体";
+  src: url("LOGO字体.woff2") format("woff2"),
+       url("LOGO字体.woff") format("woff"),
+       url("LOGO字体.ttf") format("truetype"),
+       url("LOGO字体.eot") format("embedded-opentype"),
+       url("LOGO字体.svg") format("svg"),
+       url("LOGO字体.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
